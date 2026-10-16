@@ -47,5 +47,3 @@ React con Vite y Dexie, app en React Native.
 
 También hay cosas que hice por curiosidad y las dejo ahí: un launcher de Android en
 Kotlin, algo para Wear OS, prácticas de sistemas distribuidos. No todo tiene que ser serio.
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Insidious22&show_icons=true&hide_border=true&theme=transparent&locale=es)
