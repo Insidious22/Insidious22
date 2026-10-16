@@ -1,15 +1,13 @@
-## Hola, soy Santiago Castro 👋
+## Santiago Castro
 
-Estudiante de Ingeniería en Sistemas en Ecuador y desarrollador full-stack.
-Construyo sistemas de gestión para empresas reales: Laravel e Inertia en el
-backend, Vue y React en la interfaz, y el despliegue completo en AWS con Docker.
+Estudio Ingeniería en Sistemas en Ecuador y me paso el día armando sistemas de
+gestión para empresas: Laravel atrás, Vue o React adelante, y el despliegue
+también mío. Me gusta la parte donde la cosa por fin corre en un servidor de verdad.
 
-- 🔭 Ahora mismo: **ContractFlow**, gestión contractual con firma electrónica híbrida
-- 🌱 Aprendiendo: sistemas distribuidos, testing end-to-end con Playwright e infraestructura en AWS
-- 💬 Pregúntame sobre: Laravel, Inertia, Docker o apps offline-first
-- 📫 insidious.ac22@gmail.com
+Ahora ando metido en **ContractFlow**, un gestor de contratos con firma electrónica.
+Escríbeme a insidious.ac22@gmail.com si quieres hablar de Laravel, Inertia o Docker.
 
-### Tecnologías
+### Con lo que trabajo
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -24,23 +22,30 @@ backend, Vue y React en la interfaz, y el despliegue completo en AWS con Docker.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### Proyectos
+### En lo que he andado
 
-Desarrollo propio salvo donde se indica. Varios viven en repositorios privados del cliente.
+Casi todo es mío de punta a punta. Varios viven en repos privados del cliente,
+así que aquí no se ven.
 
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| **ContractFlow** | Gestión contractual: flujo de aprobación, plantillas con variables y firma electrónica híbrida (certificado `.p12` o código de verificación) | Laravel 13 · React 19 · Inertia · Docker · Playwright |
-| **Kobros360** | Plataforma de cobranzas: panel de gestión y portal de clientes | Laravel 12 · Inertia · Vue 3 · TypeScript |
-| **Bitácora Protemaxi** *(en equipo · activo)* | Operación de seguridad privada: bitácoras, reporte de incidentes y seguimiento GPS de guardias, multi-cliente | Laravel · MySQL |
-| **Evaluación rápida de sismos** | Levantamiento de daños estructurales en campo sin señal; sincroniza al recuperar conexión | React · Vite PWA · Dexie · React Native · Node |
-| **Exportador de documentos** | Servicio de procesamiento de PDF por lotes | Go |
-| **Sistemas distribuidos** | Prácticas de arquitectura distribuida de la carrera | — |
+**ContractFlow** — Contratos de principio a fin: se arman con plantillas, pasan por
+aprobaciones y se firman con certificado `.p12` o con un código al correo.
+Laravel 13, React 19 con Inertia, Docker y pruebas con Playwright.
 
-### Un poco más
+**Kobros360** — Plataforma de cobranzas, con panel de gestión y portal para clientes.
+Laravel 12, Inertia y Vue 3.
 
-Me interesa el tramo que casi nadie quiere: dejar el sistema corriendo de verdad.
-En ContractFlow eso significó Docker, Nginx, despliegue en AWS Lightsail, pruebas
-end-to-end en el servidor y un manual de pruebas para que el cliente lo validara solo.
+**Bitácora Protemaxi** — Para una empresa de seguridad privada: bitácoras, incidentes
+y dónde está cada guardia. Varios clientes en el mismo sistema. Aquí sigo, y en equipo.
+
+**Evaluación rápida de sismos** — Para levantar daños en campo después de un terremoto,
+donde no hay señal. Guarda todo local y sincroniza cuando vuelve el internet.
+React con Vite y Dexie, app en React Native.
+
+**Exportador de documentos** — Un servicio en Go que procesa PDFs por lotes.
+
+### Lo otro
+
+También hay cosas que hice por curiosidad y las dejo ahí: un launcher de Android en
+Kotlin, algo para Wear OS, prácticas de sistemas distribuidos. No todo tiene que ser serio.
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Insidious22&show_icons=true&hide_border=true&theme=transparent&locale=es)
