@@ -2,10 +2,7 @@
 
 Estudio Ingeniería en Sistemas en Ecuador y me paso el día armando sistemas de
 gestión para empresas: Laravel atrás, Vue o React adelante, y el despliegue
-también mío. Me gusta la parte donde la cosa por fin corre en un servidor de verdad.
-
-Ahora ando metido en **ContractFlow**, un gestor de contratos con firma electrónica.
-Escríbeme a insidious.ac22@gmail.com si quieres hablar de Laravel, Inertia o Docker.
+también mío.
 
 ### Con lo que trabajo
 
